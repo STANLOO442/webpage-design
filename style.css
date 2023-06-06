@@ -5,7 +5,7 @@
 .main {
     width: 100%;
     height: 109vh;
-    background-image: url('../img.jpg.webp');
+    background-image: url('/images/img.jpg.webp');
     background-position: center;
     background-size: cover;
 }
